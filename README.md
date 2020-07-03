@@ -70,7 +70,7 @@ Test driven development for data science is relatively new and has a lot of expe
 
 Logging is valuable for understanding the events that occur while running your program. For example, if you run your model over night and see that it's producing ridiculous results the next day, log messages can really help you understand more about the context in which this occurred. Lets learn about the qualities that make a log message effective.
 
-## Log Messages
+### Log Messages
 
 Logging is the process of recording messages to describe events that have occurred while running your software. Let's take a look at a few examples, and learn tips for writing good log messages.
 
