@@ -110,7 +110,7 @@ Below is an example of a class with docstrings and a few things to keep in mind:
 *   Make sure to indent your docstrings correctly or the code will not run. A docstring should be indented one indentation underneath the class or method being described.
 *   You don't have to define 'self' in your method docstrings. It's understood that any method will have self as the first method input.
 
-```
+```python
 class Pants:
     """The Pants class represents an article of clothing sold in a store
     """
